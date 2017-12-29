@@ -1,0 +1,19 @@
+{
+  "name": "opinicussoaps",
+  "version": "1.5.0",
+  "description": "Opinicus Soaps.com v1.5",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianRedd/OpinicusSoapsV1.5.git"
+  },
+  "author": "R Brian Redd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianRedd/OpinicusSoapsV1.5/issues"
+  },
+  "homepage": "https://github.com/BrianRedd/OpinicusSoapsV1.5#readme"
+}
